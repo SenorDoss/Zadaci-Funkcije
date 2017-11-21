@@ -1,0 +1,23 @@
+//1. Učitati 2 broja. U funkciji ispitati i ispisati u kakvom su odnosu.
+//2. Učitati troznamenkasti broj. U funkciji izračunati aritmetičku sredinu znamenki i ispisati je u glavnom programu.
+//3. Učitavati brojeve dok su veći od 10. U funkciji ispitati parnost svakog od učitanih brojeva.
+//4. Učitavati brojeve dok su pozitivni. U funkciji izračunati korijen svakog od učitanih brojeva i ispisati ga u glavnom programu.
+//5. Učitavati znakove dok se ne učita X. U funkciji ispisati ASCII kod svakog od učitanih znakova.
+//6. Učitavati znakove sve dok se ne učita 0. U funkciji ispitati i ispisati je li učitano slovo, broj ili neki drugi znak.
+//7. Učitati 10 brojeva u polje. U funkciji izračunati aritmetičku sredinu parnih brojeva i ispisati je u glavnom programu (zbrajanje brojeva – u glavnom programu).
+//8. Učitati 10 brojeva u polje. U funkciji ispitati da li je učitano više parnih ili neparnih brojeva (prebrojavanje – u glavnom programu).
+//9. Učitati rečenicu. U funkciji ispitati da li je učitano više  malih ili velikih slova (prebrojavanje – u glavnom programu).
+//10. Učitati broj. U funkciji ispisati heksadekadski zapis učitanog broja.
+//11. Učitati broj. U funkciji ispisati binarni zapis učitanog broja.
+//12. Učitati četveroznamenkasti broj. U funkciji ispitati i ispisati da li je znamenka stotica učitanog broja djeljiva sa 3.
+//13. Učitati troznamenkasti broj. U funkciji ispitati da li je znamenka jedinica učitanog broja prost broj i to ispisati u: a) glavnom programu  b) funkciji!
+//14. Učitati troznamenkasti broj. U funkciji pronaći najveću od znamenki učitanog broja i ispisati je u:             a) glavnom programu  b) funkciji!
+//15. Učitati n brojeva u polje. U funkciji izračunati aritmetičku sredinu brojeva djeljivih sa 3 ili sa 5. Aritmetičku sredinu ispisati u: a) glavnom programu  b) funkciji!
+//16. Učitati n znakova. U funkciji ispisati ASCII kod svakog učitanog znaka.
+//17. Učitati riječ. U funkciji izračunati aritmetičku sredinu ASCII kodova slova učitane riječi. Aritmetičku sredinu ispisati u: a) glavnom programu  b) funkciji!
+//18. Učitavati brojeve dok su >0. Za svaki učitani broj u funkciji izračunati korijen. Rezultat ispisati u:       a) glavnom programu  b) funkciji!
+//19. Učitavati brojeve dok su parni. Za svaki učitani broj u funkciji izračunati kub. Rezultat ispisati u:        a) glavnom programu  b) funkciji!
+//20. Učitavati riječi dok su duže od 3 znaka. Za svaku učitanu riječ u funkciji izračunati aritmetičku sredinu ASCII kodova slova učitane riječi. Aritmetičku sredinu ispisati: u: a) glavnom programu  b) funkciji!
+//21. Učitati rečenicu. U funkciji ispisati da li je izjavna, upitna ili usklična!
+//22. Učitavati brojeve dok su troznamenkasti. U funkciji izračunati aritmetičku sredinu njegovih znamenki. Aritmetičku sredinu ispisati u: a) glavnom programu  b) funkciji!
+//23. Učitavati brojeve dok su troznamenkasti. U funkciji pronaći najmanju od njegovih znamenki i ispisati je u: a) glavnom programu  b) funkciji! 
