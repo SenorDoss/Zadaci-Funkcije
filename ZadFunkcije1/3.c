@@ -8,6 +8,7 @@ void parnost(int a) {
 }
 
 void main() {
+  int a;
   printf("Upisi broj: "); scanf("%d",&a);
   while (a < 10) {
   parnost(a);
