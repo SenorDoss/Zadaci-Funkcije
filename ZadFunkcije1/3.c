@@ -11,8 +11,8 @@ void main() {
   int a;
   printf("Upisi broj: "); scanf("%d",&a);
   while (a < 10) {
-  parnost(a);
-  printf("Upisi broj: "); scanf("%d",&a);
+    parnost(a);
+    printf("Upisi broj: "); scanf("%d",&a);
   }
 } 
   
