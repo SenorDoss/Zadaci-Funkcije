@@ -8,7 +8,7 @@ void main() {
   char c;
   printf("Upisi znak: "); scanf(" %c",&a);
   while (c != 'x' && c != 'X') {
-  ascii(c);
-  printf("Upisi znak: "); scanf(" %c",&a);
+    ascii(c);
+    printf("Upisi znak: "); scanf(" %c",&a);
   }
 } 
