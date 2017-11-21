@@ -1,6 +1,5 @@
 //2. Učitati troznamenkasti broj. U funkciji izračunati aritmetičku sredinu znamenki i ispisati je u glavnom programu.
 #include <stdio.h>
-
 float arsr(int a) {
   float val = (float)a;
   float ret = (a/100) + ((a%100)/10) + (a%10);
