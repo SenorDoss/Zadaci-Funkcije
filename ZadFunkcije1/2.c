@@ -8,6 +8,7 @@ float arsr(int a) {
  }
  
  void main() {
+  int a;
   printf("Upisi troznamenkasti broj: "); scanf("%d", &a);
   printf("Aritmeticka sredina znamenka %d jednaka je %.2f",a, arsr(a)); //Moguce je koristiti i vrijednost (npr. float) i funkciju koja vraca istu vrijednost na istome mjestu u C kodu.
  }
